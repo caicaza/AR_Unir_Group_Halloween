@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637911884821468714
+      ticks: 637913244967104364
     m_Hash: 2798378353
   m_LockFileStatus:
     m_FilePath: D:/Proyectos Git hub/AR_Unir_Group/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637911884936558590
+      ticks: 637913245100016849
     m_Hash: 271259228
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
