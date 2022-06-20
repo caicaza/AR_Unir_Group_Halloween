@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Haloween_ImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5645658682688307409
+  m_GuidHigh: 11294053050637652411
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5257773776039034515
+      m_GuidHigh: 11153957326876719037
+    m_SerializedTextureGuid:
+      m_GuidLow: 6369369531955020841
+      m_GuidHigh: 8211228895040739787
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Cube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5672294144506890957
+      m_GuidHigh: 15956401656975601554
+    m_SerializedTextureGuid:
+      m_GuidLow: 18101158721485606719
+      m_GuidHigh: 4970797830440508888
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: craneo3D_esc
+    m_Texture: {fileID: 0}
