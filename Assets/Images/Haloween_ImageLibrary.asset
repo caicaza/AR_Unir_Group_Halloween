@@ -19,11 +19,11 @@ MonoBehaviour:
       m_GuidLow: 5257773776039034515
       m_GuidHigh: 11153957326876719037
     m_SerializedTextureGuid:
-      m_GuidLow: 6369369531955020841
-      m_GuidHigh: 8211228895040739787
-    m_Size: {x: 0.2, y: 0.2}
+      m_GuidLow: 5747939587432843841
+      m_GuidHigh: 4978628936929901915
+    m_Size: {x: 0.2, y: 0.25032258}
     m_SpecifySize: 1
-    m_Name: Cube
+    m_Name: Tumba_esc
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5672294144506890957

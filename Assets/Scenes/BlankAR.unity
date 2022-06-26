@@ -462,7 +462,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Objetos3D:
   - {fileID: 3882301671840211727, guid: 29d32639a6298d74a84a72310790f32a, type: 3}
-  - {fileID: 6111335518354783591, guid: 8f977610826adbe4192043a5c9c24c42, type: 3}
+  - {fileID: 4490202663835466278, guid: 92b1bfd46977d2146a2fcaf6bb804080, type: 3}
   - {fileID: 64755395320529788, guid: 6b597be148dbe7b4496ca12139e1860f, type: 3}
 --- !u!114 &1659859601
 MonoBehaviour:

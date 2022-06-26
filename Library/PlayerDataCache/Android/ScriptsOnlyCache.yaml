@@ -22,8 +22,6 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
     - UnityEngine.XR.ARFoundation.ARTrackedImageManager
-    Unity.XR.ARKit.Editor.dll:
-    - UnityEditor.XR.ARKit.ARKitSettings
     Unity.XR.ARSubsystems.dll:
     - UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
     Unity.XR.Management.Editor.dll:
@@ -31,8 +29,6 @@ ScriptsOnlyBuild:
     Unity.XR.Management.dll:
     - UnityEngine.XR.Management.XRGeneralSettings
     - UnityEngine.XR.Management.XRManagerSettings
-    Unity.XR.WindowsMixedReality.Editor.dll:
-    - UnityEditor.XR.WindowsMR.WindowsMRPackageSettings
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -69,6 +65,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
     - Class: 74
@@ -86,30 +84,28 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6752}
+      Script: {instanceID: 1514}
     - Class: 114
-      Script: {instanceID: 6834}
+      Script: {instanceID: 1642}
     - Class: 114
-      Script: {instanceID: 7818}
+      Script: {instanceID: 1724}
     - Class: 114
-      Script: {instanceID: 7912}
+      Script: {instanceID: 2732}
     - Class: 114
-      Script: {instanceID: 8908}
+      Script: {instanceID: 2828}
     - Class: 114
-      Script: {instanceID: 9114}
+      Script: {instanceID: 3844}
     - Class: 114
-      Script: {instanceID: 9520}
+      Script: {instanceID: 4458}
     - Class: 114
-      Script: {instanceID: 9876}
+      Script: {instanceID: 4816}
     - Class: 114
-      Script: {instanceID: 10322}
+      Script: {instanceID: 5272}
     - Class: 114
-      Script: {instanceID: 10750}
+      Script: {instanceID: 5500}
     - Class: 114
-      Script: {instanceID: 24252}
+      Script: {instanceID: 5712}
     - Class: 115
-      Script: {instanceID: 0}
-    - Class: 135
       Script: {instanceID: 0}
     - Class: 136
       Script: {instanceID: 0}
@@ -120,6 +116,12 @@ ScriptsOnlyBuild:
     - Class: 196
       Script: {instanceID: 0}
   scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: d251bf88db6c95a6b1aa0b69298da9ef
+    assemblyName: UnityEngine.SpatialTracking.dll
+    namespaceName: UnityEngine.SpatialTracking
+    className: TrackedPoseDriver
   - hash:
       serializedVersion: 2
       Hash: 24c74cc0d527a06113f2b967042769f0
@@ -506,12 +508,6 @@ ScriptsOnlyBuild:
     className: PlayerQuitHandler
   - hash:
       serializedVersion: 2
-      Hash: d251bf88db6c95a6b1aa0b69298da9ef
-    assemblyName: UnityEngine.SpatialTracking.dll
-    namespaceName: UnityEngine.SpatialTracking
-    className: TrackedPoseDriver
-  - hash:
-      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -788,6 +784,12 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
+      Hash: 87dfc581340fb363183cf0c9998e3472
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ImageRecognitionScript
+  - hash:
+      serializedVersion: 2
       Hash: 290afc8da8e459e0b8dc7444bfaf5e35
     assemblyName: Unity.XR.ARFoundation.dll
     namespaceName: UnityEngine.XR.ARFoundation
@@ -846,12 +848,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
-  - hash:
-      serializedVersion: 2
-      Hash: 87dfc581340fb363183cf0c9998e3472
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ImageRecognitionScript
   platform: 13
   scenePathNames:
   - Assets/Scenes/BlankAR.unity
