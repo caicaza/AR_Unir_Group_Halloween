@@ -22,6 +22,8 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
     - UnityEngine.XR.ARFoundation.ARTrackedImageManager
+    Unity.XR.ARKit.Editor.dll:
+    - UnityEditor.XR.ARKit.ARKitSettings
     Unity.XR.ARSubsystems.dll:
     - UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
     Unity.XR.Management.Editor.dll:
@@ -29,6 +31,8 @@ ScriptsOnlyBuild:
     Unity.XR.Management.dll:
     - UnityEngine.XR.Management.XRGeneralSettings
     - UnityEngine.XR.Management.XRManagerSettings
+    Unity.XR.WindowsMixedReality.Editor.dll:
+    - UnityEditor.XR.WindowsMR.WindowsMRPackageSettings
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -43,10 +47,18 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
     UnityEngine.SpatialTracking.dll:
     - UnityEngine.SpatialTracking.TrackedPoseDriver
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Text
     UnityEngine.XR.MagicLeap.dll:
     - UnityEngine.XR.MagicLeap.MagicLeapSettings
   sceneClasses:
-    Assets/Scenes/BlankAR.unity:
+    Assets/Scenes/Halloween_AR.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -71,6 +83,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
     - Class: 83
       Script: {instanceID: 0}
     - Class: 89
@@ -86,26 +102,42 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1514}
     - Class: 114
+      Script: {instanceID: 1588}
+    - Class: 114
       Script: {instanceID: 1642}
     - Class: 114
       Script: {instanceID: 1724}
     - Class: 114
+      Script: {instanceID: 2356}
+    - Class: 114
       Script: {instanceID: 2732}
+    - Class: 114
+      Script: {instanceID: 2784}
     - Class: 114
       Script: {instanceID: 2828}
     - Class: 114
-      Script: {instanceID: 3844}
+      Script: {instanceID: 2936}
     - Class: 114
-      Script: {instanceID: 4458}
+      Script: {instanceID: 3208}
     - Class: 114
-      Script: {instanceID: 4816}
+      Script: {instanceID: 3466}
     - Class: 114
-      Script: {instanceID: 5272}
+      Script: {instanceID: 3604}
     - Class: 114
-      Script: {instanceID: 5500}
+      Script: {instanceID: 3846}
     - Class: 114
-      Script: {instanceID: 5712}
+      Script: {instanceID: 4460}
+    - Class: 114
+      Script: {instanceID: 4818}
+    - Class: 114
+      Script: {instanceID: 5274}
+    - Class: 114
+      Script: {instanceID: 5502}
+    - Class: 114
+      Script: {instanceID: 5714}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 136
       Script: {instanceID: 0}
@@ -114,6 +146,14 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -850,5 +890,5 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   platform: 13
   scenePathNames:
-  - Assets/Scenes/BlankAR.unity
+  - Assets/Scenes/Halloween_AR.unity
   playerPath: D:/Proyectos Git hub/AR_Unir_Group/Builds/Ar_Halloween_project.apk
