@@ -1,0 +1,243 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.32f1 (12f8b0834f07) revision 1243312'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'es' Physical Memory: 32678 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Proyectos Git hub/AR_Unir_Group
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53807
+Successfully changed project path to: D:/Proyectos Git hub/AR_Unir_Group
+D:/Proyectos Git hub/AR_Unir_Group
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 68.36 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 2.18 ms.
+Initialize engine version: 2020.3.32f1 (12f8b0834f07)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Proyectos Git hub/AR_Unir_Group/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003831 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 65.05 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.651 seconds
+Domain Reload Profiling:
+	ReloadAssembly (651ms)
+		BeginReloadAssembly (79ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (489ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (155ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (192ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (65ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (80ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009355 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 58.25 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.175 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1176ms)
+		BeginReloadAssembly (179ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (932ms)
+			LoadAssemblies (114ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (276ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (390ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (59ms)
+				BeforeProcessingInitializeOnLoad (128ms)
+				ProcessInitializeOnLoadAttributes (178ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.69 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 2264 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2703.
+Total: 2.997700 ms (FindLiveObjects: 0.173300 ms CreateObjectMapping: 0.068100 ms MarkObjects: 2.679800 ms  DeleteObjects: 0.075700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/EmaceArt/NecroPoly Free/Scenes/Sky/Sunless_BlueSky_01.mat
+  artifactKey: Guid(d0d62fab8e968314cb819a4c381f034a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Scenes/Sky/Sunless_BlueSky_01.mat using Guid(d0d62fab8e968314cb819a4c381f034a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598002bcbe471be77e26833519fd60f7') in 0.597737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Grave_Stone_Mini_02a.fbx
+  artifactKey: Guid(763f4eef0bf9a924b966b0249a1be59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Grave_Stone_Mini_02a.fbx using Guid(763f4eef0bf9a924b966b0249a1be59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32eeda67b4b922d86fe9df0362a0e24a') in 0.197941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Scenes/Sky/Sunless_BlueSky_02.mat
+  artifactKey: Guid(247b13ce644407348ad7410e70fd5347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Scenes/Sky/Sunless_BlueSky_02.mat using Guid(247b13ce644407348ad7410e70fd5347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357d7a9af50151a39a7b83d27fd5a769') in 0.548524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Exterior_Lamp_wooden_01a.fbx
+  artifactKey: Guid(bc62889055849b041ba3f61d759d7778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Exterior_Lamp_wooden_01a.fbx using Guid(bc62889055849b041ba3f61d759d7778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782f7ae7f60cd4a099a69ae9533ac75b') in 0.064351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Niche_Mossy_Class_C_01a.fbx
+  artifactKey: Guid(438fa5fcad7a6424cba6c9bc67a6a43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Niche_Mossy_Class_C_01a.fbx using Guid(438fa5fcad7a6424cba6c9bc67a6a43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ef2835ae7b2f3a4ad77a059590ce89') in 0.076640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Segment_Moss_1c.fbx
+  artifactKey: Guid(100ec6ad33347f749afaf7b688f72071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Segment_Moss_1c.fbx using Guid(100ec6ad33347f749afaf7b688f72071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '896a24976a78a03b4e87c2fb2183434e') in 0.077616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Mossy_Ruined_01b.fbx
+  artifactKey: Guid(d714b211477a40a4dba0ff6dd6e7614f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Mossy_Ruined_01b.fbx using Guid(d714b211477a40a4dba0ff6dd6e7614f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5a63e40580b1e645a99c69ca13ac71b') in 0.057141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Segment_Moss_1a.fbx
+  artifactKey: Guid(f90fddedf9330fb47877d08f5e6d7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Segment_Moss_1a.fbx using Guid(f90fddedf9330fb47877d08f5e6d7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '823ee14c236d75595060339ddfc0a7bd') in 0.153680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Segment_Clean_1c.fbx
+  artifactKey: Guid(556d3946e52df184e9c8d2e655b11dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Segment_Clean_1c.fbx using Guid(556d3946e52df184e9c8d2e655b11dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f06cb9d236596f71b6f57ac8819d92fa') in 0.077383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Niche_Clean_Class_B_01a.fbx
+  artifactKey: Guid(8fadc54e01a85774bae7e98894996428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Niche_Clean_Class_B_01a.fbx using Guid(8fadc54e01a85774bae7e98894996428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33858db4123c0c7f9c0c21ff25bd68dc') in 0.156824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Niche_Mossy_Class_C_01b.fbx
+  artifactKey: Guid(55a2044860254ce43858e1c21e0f56d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Niche_Mossy_Class_C_01b.fbx using Guid(55a2044860254ce43858e1c21e0f56d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14c42c18ff995ba5adcf4928dd6d0b4') in 0.096914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Mossy_Ruined_01d.fbx
+  artifactKey: Guid(e3438e1e7bd76844da0b350ef90c2d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Mossy_Ruined_01d.fbx using Guid(e3438e1e7bd76844da0b350ef90c2d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cdbbce30367abd9a2edda27c94be8a7') in 0.064525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Grave_Modern_Mini_01b.fbx
+  artifactKey: Guid(a5b91f81b33f897479cc8fb400d22898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Grave_Modern_Mini_01b.fbx using Guid(a5b91f81b33f897479cc8fb400d22898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d00111b7f0e7c4e18ebe6bb7fd95c75') in 0.055475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Mossy_Ruined_01c.fbx
+  artifactKey: Guid(69f597b4dab5a324a87a4e70e9dd3cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/NecroPoly Free/Meshes/EA_Bld_Tomb_Mossy_Ruined_01c.fbx using Guid(69f597b4dab5a324a87a4e70e9dd3cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936c40b70f7b5bd2468c793c2155f1dc') in 0.067425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 148.879116 seconds.
+  path: Assets/Scenes/Halloween_AR.unity
+  artifactKey: Guid(6bdce89659816455b9f906fc62d19910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_AR.unity using Guid(6bdce89659816455b9f906fc62d19910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39a0a973fb61c5ce37e905d5e93170d') in 0.005584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 142.989535 seconds.
+  path: Assets/Scenes/Halloween_AR.unity
+  artifactKey: Guid(6bdce89659816455b9f906fc62d19910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_AR.unity using Guid(6bdce89659816455b9f906fc62d19910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4380490addb4952731029b0566f594') in 0.004483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.015010 seconds.
+  path: Assets/Scenes/Halloween_AR.unity
+  artifactKey: Guid(6bdce89659816455b9f906fc62d19910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_AR.unity using Guid(6bdce89659816455b9f906fc62d19910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4bbb75bf4c58cbdb8841ed2fbff6cb') in 0.004320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.863628 seconds.
+  path: Assets/Scenes/Halloween_AR.unity
+  artifactKey: Guid(6bdce89659816455b9f906fc62d19910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_AR.unity using Guid(6bdce89659816455b9f906fc62d19910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f7a5cd024bf3d2fcf5158baefbdaedf') in 0.004861 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
